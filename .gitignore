@@ -1,0 +1,4 @@
+__pycache__/
+
+*.txt
+speecht5_finetuned_*/
